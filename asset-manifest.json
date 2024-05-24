@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/fs95-react-node-AlexBinkovskyy/static/css/main.4d0a3c62.css",
+    "main.js": "/fs95-react-node-AlexBinkovskyy/static/js/main.29ad7eb8.js",
+    "static/media/Water404Bg.jpg": "/fs95-react-node-AlexBinkovskyy/static/media/Water404Bg.00f0904527198097a016.jpg",
+    "static/media/transparent_bottle_for_water_desk@2x.png": "/fs95-react-node-AlexBinkovskyy/static/media/transparent_bottle_for_water_desk@2x.fc8b8b636a301d5a13cb.png",
+    "static/media/transparent_bottle_for_water_tab@2x.png": "/fs95-react-node-AlexBinkovskyy/static/media/transparent_bottle_for_water_tab@2x.c9adc67d5ff2b07dff94.png",
+    "static/media/imageSetting.png": "/fs95-react-node-AlexBinkovskyy/static/media/imageSetting.415f28b9c922226e3b80.png",
+    "static/media/Montserrat-Bold.ttf": "/fs95-react-node-AlexBinkovskyy/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Regular.ttf": "/fs95-react-node-AlexBinkovskyy/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/Poppins-Regular.ttf": "/fs95-react-node-AlexBinkovskyy/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/fs95-react-node-AlexBinkovskyy/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/transparent_bottle_for_water_mob@2x.png": "/fs95-react-node-AlexBinkovskyy/static/media/transparent_bottle_for_water_mob@2x.64b32f16ec148dbc0fbd.png",
+    "static/media/transparent_bottle_for_water_desk@1x.png": "/fs95-react-node-AlexBinkovskyy/static/media/transparent_bottle_for_water_desk@1x.6cf5991eb65daf7a4333.png",
+    "static/media/imageStatistics.png": "/fs95-react-node-AlexBinkovskyy/static/media/imageStatistics.ea237643cc6f3cf225ab.png",
+    "static/media/rectangle_desk@2x.jpg": "/fs95-react-node-AlexBinkovskyy/static/media/rectangle_desk@2x.f9c02a979b951fe97459.jpg",
+    "static/media/transparent_bottle_for_water_tab@1x.png": "/fs95-react-node-AlexBinkovskyy/static/media/transparent_bottle_for_water_tab@1x.be17d30cbed5674fcc18.png",
+    "static/media/rectangle_tab@2x.jpg": "/fs95-react-node-AlexBinkovskyy/static/media/rectangle_tab@2x.2f07c3fec9273ae85630.jpg",
+    "static/media/imageDrive.png": "/fs95-react-node-AlexBinkovskyy/static/media/imageDrive.599fcb3b8260c28eeb7c.png",
+    "static/media/transparent_bottle_for_water_mob@1x.png": "/fs95-react-node-AlexBinkovskyy/static/media/transparent_bottle_for_water_mob@1x.0421a9f1550560fe8bce.png",
+    "static/media/sprite.svg": "/fs95-react-node-AlexBinkovskyy/static/media/sprite.69f812c56ba83d0d6b24638c1d1d9044.svg",
+    "static/media/rectangle_desk@1x.jpg": "/fs95-react-node-AlexBinkovskyy/static/media/rectangle_desk@1x.b9fa2cc4a706fa06bc66.jpg",
+    "static/media/rectangle_tab@1x.jpg": "/fs95-react-node-AlexBinkovskyy/static/media/rectangle_tab@1x.997aee7c132d4df33b99.jpg",
+    "static/media/flag-kingdom.svg": "/fs95-react-node-AlexBinkovskyy/static/media/flag-kingdom.b0dfd1b28c2885d778c60362b1e1f20a.svg",
+    "index.html": "/fs95-react-node-AlexBinkovskyy/index.html",
+    "static/media/flag-ukraine.svg": "/fs95-react-node-AlexBinkovskyy/static/media/flag-ukraine.67cac0d9d9ebcfc2abec26b5231fa910.svg",
+    "main.4d0a3c62.css.map": "/fs95-react-node-AlexBinkovskyy/static/css/main.4d0a3c62.css.map",
+    "main.29ad7eb8.js.map": "/fs95-react-node-AlexBinkovskyy/static/js/main.29ad7eb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0a3c62.css",
+    "static/js/main.29ad7eb8.js"
+  ]
+}
