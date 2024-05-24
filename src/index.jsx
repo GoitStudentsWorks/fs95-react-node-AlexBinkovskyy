@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   //  <React.StrictMode>
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="/finalTeamProject">
+      <BrowserRouter basename="/fs95-react-node-AlexBinkovskyy">
         <ThemeProvider>
           <App />
           <ThemedToastContainer />
